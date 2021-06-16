@@ -107,7 +107,7 @@ public class GestionJugadorFragment extends Fragment {
         recyclerJugadores=vista.findViewById(R.id.recyclerJugadoresId);
 
         btnAtras=vista.findViewById(R.id.btnIcoAtras);
-        campoNick=vista.findViewById(R.id.campoNickname);
+        campoNick=vista.findViewById(R.id.campoNickName);
         radioF=vista.findViewById(R.id.radioF);
         radioM=vista.findViewById(R.id.radioM);
         barraSeleccion=vista.findViewById(R.id.barraSeleccionId);

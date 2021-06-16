@@ -90,6 +90,7 @@
                android:text="Nombre:"
                android:textColor="@android:color/black"
                android:textSize="18sp"/>
+
            <EditText
                android:id="@+id/campoNickName"
                android:layout_width="match_parent"
