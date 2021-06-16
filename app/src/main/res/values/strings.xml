@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">app ova</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_contenedor_instrucciones">ContenedorInstruccionesActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="texto_instruccion_final">Y listo, ahora puedes empezar a jugar, presiona iniciar y prueba tus conocimientos!!!</string>
+    <string name="texto_instrucciones_informacion">Esta app es un quiz del juego de escritorio OVA donde el juego eneseña sobre recursos hidricos</string>
+    <string name="texto_instruccion_user">Registrar el usuario es fundamental si quieres ver tu record contra otros amigos, ya qué este nos permitirá saber qué usuario ha jugado y cual es su posición en el ranking, presiona esta opción si quieres ingresar un nuevo jugador...</string>
+    <string name="texto_instrucciones_instrucciones">¿Aún no te queda claro como funciona la aplicación? No te preocupes, desde aquí podrás regresar a consultar las instrucciones del juego...</string>
+    <string name="texto_instrucciones_ranking">Consulta el ranking de puntos obtenidos en cada partida, a medida que vayas jugando mejorarás tú puntaje...</string>
+    <string name="texto_instrucciones_ajustes">Ajusta el modo de juego, puedes definir jugar por tiempo, por afirmaciones, o seleccionar el nivel inicial entre otros elementos de configuración...</string>
+    <string name="texto_instrucciones_play">Desde aquí podrás medir tus conocimientos probando el test de app OVA, en el que deberás indicar si la frase corresponde a correcto o incorrecto...</string>
+    <string name="texto_instrucciones_introduccion">La app OVA permite medir el conocimiento adquirido en el juego de escritorio OVA sobre los diferentes temas de recursos hidricos a través de varias afirmaciones y dos botones de correcto o incorrecto ...</string>
+    <string name="title_activity_ajustes_tema">AjustesTemaActivity</string>
+    <string name="info_acerca_de">Esta aplicación nace de codejavu.blogspot.com y hace parte de una secuencia de videos qué podrán encontrar en youtube donde se aplican algunos conceptos trabajados en la lista de reproducción del Curso Android desde Cero</string>
+
+
+</resources>
